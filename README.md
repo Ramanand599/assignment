@@ -1,10 +1,10 @@
 # assignment
 Step 1: Setting Up the Environment
-``
+```
 Install Python: Ensure you have Python installed. You can download it from python.org.
 
 Install MongoDB: If you don't have MongoDB installed, you can download it from mongodb.com.
-``
+```
 Step 2: Initialize Your Project
 1. Create a Project Directory:
 ```
